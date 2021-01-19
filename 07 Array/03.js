@@ -1,0 +1,10 @@
+var fruits = ['Apple', 'Orange', 'Banana'];
+fruits.sort();
+console.log(fruits);
+fruits.pop();
+console.log(fruits);
+fruits.push('Papaya');
+console.log(fruits);
+fruits = fruits.concat(['Fig', 'Mango']);
+console.log(fruits);
+console.log(fruits.indexOf(('Papaya')));
