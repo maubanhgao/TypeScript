@@ -1,0 +1,13 @@
+var fruits;
+fruits = ['Apple', 'Orange', 'Banana'];
+var ids;
+ids = [23, 34, 100, 124, 44];
+var next;
+next = [23, 34, 100, 124, 44];
+console.log(fruits);
+console.log(ids);
+console.log((next));
+var values = ['Apple', 2, 'Orange', 3, 4, 'Banana'];
+var values1 = ['Apple', 2, 'Orange', 3, 4, 'Banana'];
+console.log(values);
+console.log(values1);
